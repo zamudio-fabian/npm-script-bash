@@ -1,4 +1,4 @@
-# ☕🚀 Zamudio Fabian: Build & publish script bash on NPM
+# 🚀 Zamudio Fabian: Build & publish script bash on NPM
 
 <img src="https://cdn.worldvectorlogo.com/logos/npm-2.svg" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
@@ -11,8 +11,8 @@ This is a repository intended to serve as a example for build and publish a scri
 
 ## 🧱 Requirements
 
--   Install npm & node: `More info [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)`
--   NPM account: `More info [here](https://www.npmjs.com/signup)`
+- Install npm & node: `More info https://docs.npmjs.com/downloading-and-installing-node-js-and-npm`
+- NPM account: `More info https://www.npmjs.com/signup`
 
 ## 🏁 How To Start
 
@@ -24,16 +24,16 @@ This is a repository intended to serve as a example for build and publish a scri
 
 ## ☝️ How to update dependencies
 
--   Update dependencies: `npm install`
+- Update dependencies: `npm install`
 
-## How to use
+## 🧬How to use
 
 1. Install as a global library: `npm install -g zamu-utils`
 2. Run commands: `zamu --help`
 
 ## 💡 Related repositories
 
-## License
+## 🧙 License
 
 This project is licensed under the terms of the
 [MIT license](/LICENSE).
