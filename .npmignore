@@ -1,0 +1,11 @@
+#Visual Studio
+.vs
+
+#Dist
+dist/
+
+#Git
+.git
+
+#node_modules
+node_modules

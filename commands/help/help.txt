@@ -1,0 +1,7 @@
+Usage: zamu [command] [--help] [arguments]
+
+Executes the commands defined in Zamu Utils
+
+commands:
+  date        | d                   Show actual date
+  help        | h                   Show this help
